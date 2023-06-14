@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/error/error-403.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/error" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home/home.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login/forgot-password.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login/signup.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/multiverse/add.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/multiverse" />
+      </map>
+    </option>
+  </component>
+</project>
